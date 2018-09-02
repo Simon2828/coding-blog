@@ -6,6 +6,5 @@ description: freecodecamp frontend project
 tags:
   - codepen
 ---
-Making a calculator on codepen using react.
-
-https://codepen.io/Simon28/pen/NBgKwz?editors=0111
+Making a 
+[calculator](https://codepen.io/Simon28/pen/NBgKwz?editors=0111) on codepen.

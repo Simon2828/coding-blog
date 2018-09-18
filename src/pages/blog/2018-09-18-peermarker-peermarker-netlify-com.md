@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: '[peermarker](peermarker.netlify.com)'
+title: peermarker
 date: '2018-09-18T21:34:43+01:00'
 description: A web app to help children with editing and improving their writing.
 tags:

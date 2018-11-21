@@ -6,4 +6,4 @@ description: speech to text
 tags:
   - speech API
 ---
-Use the web speech API to edit the steps to success. 
+Use the web speech API to edit the steps to success. Trying to work out how to rerecord a particular step.
